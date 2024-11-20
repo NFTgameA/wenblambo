@@ -9400,7 +9400,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://dexscreener.com/blast/0x54f0f12a8a1b702ac95cd368e89245414d5fff03",
+                      href: "https://dexscreener.com",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9595,16 +9595,16 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://blastscan.io/address/0xfb4c7d1bc7d70054342e1b6545f231254768d17f",
+                      href: "https://solscan.io/",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300 w-full",
-                        children: "BlastScan",
+                        children: "SolScan",
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://dexscreener.com/blast/0x54f0f12a8a1b702ac95cd368e89245414d5fff03",
+                      href: "https://dexscreener.com",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -11028,15 +11028,15 @@ const uh = () =>
                   className: "flex gap-x-2",
                   children: [
                     d.jsx("a", {
-                      href: "https://blastscan.io/address/0xfb4c7d1bc7d70054342e1b6545f231254768d17f",
+                      href: "https://solscan.io/",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
-                        children: "BlastScan",
+                        children: "SolScan",
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://dexscreener.com/blast/0x54f0f12a8a1b702ac95cd368e89245414d5fff03",
+                      href: "https://dexscreener.com",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -11223,7 +11223,7 @@ const ph = () =>
                   className: "flex gap-x-4 items-center justify-center",
                   children: [
                     d.jsx("a", {
-                      href: "https://dexscreener.com/blast/0x54f0f12a8a1b702ac95cd368e89245414d5fff03",
+                      href: "https://dexscreener.com",
                       children: d.jsx("p", {
                         className:
                           "text-2xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -11231,11 +11231,11 @@ const ph = () =>
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://blastscan.io/address/0xfb4c7d1bc7d70054342e1b6545f231254768d17f",
+                      href: "https://solscan.io/",
                       children: d.jsx("p", {
                         className:
                           "text-2xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
-                        children: "BlastScan",
+                        children: "SolScan",
                       }),
                     }),
                   ],
