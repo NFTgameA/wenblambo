@@ -11022,7 +11022,7 @@ const uh = () =>
                   className:
                     "text-xl text-amber-900 text-center font-mont font-bold",
                   children:
-                    "Are you ready to dive into the exhilarating world of meme cryptocurrencies? WEN $BLAMBO is here to turbocharge your crypto journey! Born on the robust and speedy Blast blockchain, WEN $BLAMBO isn't just another token; it's a movement. ",
+                    "Are you ready to dive into the exhilarating world of meme cryptocurrencies? WEN $BLAMBO is here to turbocharge your crypto journey! Born on the robust and speedy Sol blockchain, WEN $BLAMBO isn't just another token; it's a movement. ",
                 }),
                 d.jsxs("div", {
                   className: "flex gap-x-2",
