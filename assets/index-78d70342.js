@@ -9568,7 +9568,7 @@ const kp = () => {
                   ],
                 }),
                 d.jsx("img", {
-                  src: "https://wenblambos.vercel.app/logo.webp",
+                  src: "https://wenblambos.vercel.app/logo.png",
                   alt: "house image",
                   className: "h-48 w-fit",
                 }),
@@ -9690,7 +9690,7 @@ const kp = () => {
               className: "flex items-center justify-center",
               children: [
                 d.jsx("img", {
-                  src: "https://wenblambos.vercel.app/logo.webp",
+                  src: "https://wenblambos.vercel.app/logo.png",
                   alt: "",
                   className: "h-32",
                 }),
@@ -11050,7 +11050,7 @@ const uh = () =>
             d.jsx(ih, {
               translateY: [30, -40],
               children: d.jsx("img", {
-                src: "https://wenblambos.vercel.app/logo.webp",
+                src: "https://wenblambos.vercel.app/logo.png",
                 alt: "Lambo",
                 className: "h-[30rem]",
               }),
