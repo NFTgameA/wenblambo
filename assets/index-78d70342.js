@@ -9357,42 +9357,42 @@ const kp = () => {
                   children:
                     "You're only a click away from reaching your dreams of getting a brand new lamborghini with doggo.",
                 }),
-                d.jsxs("div", {
-                  className: "",
-                  children: [
-                    d.jsx("p", {
-                      className: "text-2xl",
-                      children: "Total Supply",
-                    }),
-                    d.jsx("p", {
-                      className: "text-4xl",
-                      children: "10 Million",
-                    }),
-                    d.jsx("br", {}),
-                    d.jsx("p", {
-                      className: "text-2xl",
-                      children: "Buy/Sell Tax",
-                    }),
-                    d.jsx("p", { className: "text-4xl", children: "0%" }),
-                    d.jsxs("p", {
-                      className: "font-sans italic",
-                      children: [
-                        d.jsx("button", {
-                          onClick: h,
-                          className: "font-bold text-xl z-99",
-                          children: " Read our DISCLAIMER ",
-                        }),
-                        " before considering WEN $LAMBO.",
-                      ],
-                    }),
-                  ],
-                }),
+                // d.jsxs("div", {
+                //   className: "",
+                //   children: [
+                //     d.jsx("p", {
+                //       className: "text-2xl",
+                //       children: "Total Supply",
+                //     }),
+                //     d.jsx("p", {
+                //       className: "text-4xl",
+                //       children: "10 Million",
+                //     }),
+                //     d.jsx("br", {}),
+                //     d.jsx("p", {
+                //       className: "text-2xl",
+                //       children: "Buy/Sell Tax",
+                //     }),
+                //     d.jsx("p", { className: "text-4xl", children: "0%" }),
+                //     d.jsxs("p", {
+                //       className: "font-sans italic",
+                //       children: [
+                //         d.jsx("button", {
+                //           onClick: h,
+                //           className: "font-bold text-xl z-99",
+                //           children: " Read our DISCLAIMER ",
+                //         }),
+                //         " before considering WEN $LAMBO.",
+                //       ],
+                //     }),
+                //   ],
+                // }),
                 d.jsxs("div", {
                   className:
                     "flex gap-x-4 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://dyorswap.finance/swap/?chainId=81457&outputCurrency=0xFb4c7d1bc7D70054342e1B6545f231254768D17fswap/",
+                      href: "https://ip.world/token/TBAswap/",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9460,7 +9460,7 @@ const kp = () => {
                     "flex gap-x-4 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://x.com/WhenBlambo_Sol",
+                      href: "https://x.com/WenLambo_Story",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9468,7 +9468,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://t.me/WhenLambo_Portal",
+                      href: "https://t.me/WenLamboStory_Channel",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9481,59 +9481,59 @@ const kp = () => {
             }),
           }),
         }),
-        d.jsx("div", {
-          className: n ? "h-screen w-full fixed bg-black/50 z-50" : "hidden",
-          children: d.jsx("div", {
-            className: "w-full h-full flex items-center justify-center p-4",
-            children: d.jsxs("div", {
-              className:
-                "bg-blue-400 text-white p-8 rounded-md drop-shadow-md max-w-xl flex flex-col gap-y-8 relative overflow-hidden",
-              children: [
-                d.jsx("p", {
-                  className:
-                    "text-9xl absolute -top-10 -left-4 z-0 opacity-20 whitespace-nowrap",
-                  children: "DISCLAIMER",
-                }),
-                d.jsx("p", {
-                  className:
-                    "text-9xl absolute bottom-0 right-0 z-0 opacity-20 whitespace-nowrap pointer-events-none",
-                  children: "WEN $LAMBO",
-                }),
-                d.jsxs("div", {
-                  className: "flex items-center justify-between relative z-20",
-                  children: [
-                    d.jsx("p", {
-                      className: "text-5xl text-blue-800",
-                      children: "DISCLAIMER",
-                    }),
-                    d.jsx("button", {
-                      onClick: h,
-                      className: "text-4xl text-blue-800 hover:text-blue-950",
-                      children: "X",
-                    }),
-                  ],
-                }),
-                d.jsx("p", {
-                  className: "text-xl font-sans font-bold",
-                  children:
-                    "Your Jurisdiction May Not Regulate Cryptocurrencies. The Value Of Cryptocurrencies May Rise And Fall. Profits May Be Subject To Capital Gains Taxes Or Other Local Taxes.",
-                }),
-                d.jsx("div", {
-                  className:
-                    "flex gap-x-4 w-full justify-center items-center relative z-20",
-                  children: d.jsx("a", {
-                    href: "",
-                    children: d.jsx("button", {
-                      className:
-                        "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
-                      children: "SolScan",
-                    }),
-                  }),
-                }),
-              ],
-            }),
-          }),
-        }),
+        // d.jsx("div", {
+        //   className: n ? "h-screen w-full fixed bg-black/50 z-50" : "hidden",
+        //   children: d.jsx("div", {
+        //     className: "w-full h-full flex items-center justify-center p-4",
+        //     children: d.jsxs("div", {
+        //       className:
+        //         "bg-blue-400 text-white p-8 rounded-md drop-shadow-md max-w-xl flex flex-col gap-y-8 relative overflow-hidden",
+        //       children: [
+        //         d.jsx("p", {
+        //           className:
+        //             "text-9xl absolute -top-10 -left-4 z-0 opacity-20 whitespace-nowrap",
+        //           children: "DISCLAIMER",
+        //         }),
+        //         d.jsx("p", {
+        //           className:
+        //             "text-9xl absolute bottom-0 right-0 z-0 opacity-20 whitespace-nowrap pointer-events-none",
+        //           children: "WEN $LAMBO",
+        //         }),
+        //         d.jsxs("div", {
+        //           className: "flex items-center justify-between relative z-20",
+        //           children: [
+        //             d.jsx("p", {
+        //               className: "text-5xl text-blue-800",
+        //               children: "DISCLAIMER",
+        //             }),
+        //             d.jsx("button", {
+        //               onClick: h,
+        //               className: "text-4xl text-blue-800 hover:text-blue-950",
+        //               children: "X",
+        //             }),
+        //           ],
+        //         }),
+        //         d.jsx("p", {
+        //           className: "text-xl font-sans font-bold",
+        //           children:
+        //             "Your Jurisdiction May Not Regulate Cryptocurrencies. The Value Of Cryptocurrencies May Rise And Fall. Profits May Be Subject To Capital Gains Taxes Or Other Local Taxes.",
+        //         }),
+        //         d.jsx("div", {
+        //           className:
+        //             "flex gap-x-4 w-full justify-center items-center relative z-20",
+        //           children: d.jsx("a", {
+        //             href: "",
+        //             children: d.jsx("button", {
+        //               className:
+        //                 "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
+        //               children: "Story",
+        //             }),
+        //           }),
+        //         }),
+        //       ],
+        //     }),
+        //   }),
+        // }),
         d.jsx("div", {
           className: o ? "h-screen w-full fixed bg-black/50 z-50" : "hidden",
           children: d.jsx("div", {
@@ -9577,7 +9577,7 @@ const kp = () => {
                     "flex flex-col gap-y-2 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://x.com/WhenBlambo_Sol",
+                      href: "https://x.com/WenLambo_Story",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -9586,7 +9586,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://t.me/WhenLambo_Portal",
+                      href: "https://t.me/WenLamboStory_Channel",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -9595,12 +9595,12 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://solscan.io/",
+                      href: "https://www.storyscan.io/",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300 w-full",
-                        children: "SolScan",
+                        children: "StoryScan",
                       }),
                     }),
                     d.jsx("a", {
@@ -9613,7 +9613,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://dyorswap.finance/swap/?chainId=81457&outputCurrency=0xFb4c7d1bc7D70054342e1B6545f231254768D17f",
+                      href: "https://ip.world/token/TBA",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -9715,12 +9715,12 @@ const kp = () => {
                     "font-vina text-lg lg:text-xl text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
                   children: "TOKENOMICS",
                 }),
-                d.jsx("button", {
-                  onClick: h,
-                  className:
-                    "font-vina text-lg lg:text-xl text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
-                  children: "DISCLAIMER",
-                }),
+                // d.jsx("button", {
+                //   onClick: h,
+                //   className:
+                //     "font-vina text-lg lg:text-xl text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
+                //   children: "DISCLAIMER",
+                // }),
                 d.jsx("button", {
                   onClick: g,
                   className:
@@ -11028,11 +11028,11 @@ const uh = () =>
                   className: "flex gap-x-2",
                   children: [
                     d.jsx("a", {
-                      href: "https://solscan.io/",
+                      href: "https://ip.world/token/TBA",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
-                        children: "SolScan",
+                             children: "Buy Now",
                       }),
                     }),
                     d.jsx("a", {
@@ -11206,13 +11206,13 @@ const ph = () =>
                   className: "flex gap-x-4 items-center justify-center",
                   children: [
                     d.jsx("a", {
-                      href: "https://t.me/WhenLambo_Portal",
+                      href: "https://t.me/WenLamboStory_Channel",
                       className:
                         "text-4xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
                       children: d.jsx(dh, {}),
                     }),
                     d.jsx("a", {
-                      href: "https://x.com/WhenBlambo_Sol",
+                      href: "https://x.com/WenLambo_Story",
                       className:
                         "text-4xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
                       children: d.jsx(fh, {}),
@@ -11231,11 +11231,11 @@ const ph = () =>
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://solscan.io/",
+                      href: "https://www.storyscan.io/",
                       children: d.jsx("p", {
                         className:
                           "text-2xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
-                        children: "SolScan",
+                        children: "StoryScan",
                       }),
                     }),
                   ],
