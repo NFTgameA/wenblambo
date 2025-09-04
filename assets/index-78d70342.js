@@ -9392,7 +9392,7 @@ const kp = () => {
                     "flex gap-x-4 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://ip.world/token/TBAswap/",
+                      href: "https://ip.world/token/0xD8Ba1e795ff04E5fdd7E03384e845007a2860B5cswap/",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9613,7 +9613,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://ip.world/token/TBA",
+                      href: "https://ip.world/token/0xD8Ba1e795ff04E5fdd7E03384e845007a2860B5c",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -11028,7 +11028,7 @@ const uh = () =>
                   className: "flex gap-x-2",
                   children: [
                     d.jsx("a", {
-                      href: "https://ip.world/token/TBA",
+                      href: "https://ip.world/token/0xD8Ba1e795ff04E5fdd7E03384e845007a2860B5c",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
