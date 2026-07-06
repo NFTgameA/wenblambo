@@ -9460,7 +9460,7 @@ const kp = () => {
                     "flex gap-x-4 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://x.com/Wenlambo_RH",
+                      href: "https://x.com/Wenlambo_Gram",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9468,7 +9468,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://t.me/WenLambo_RobinHood",
+                      href: "https://t.me/WenLambo_Gram",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9577,7 +9577,7 @@ const kp = () => {
                     "flex flex-col gap-y-2 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://x.com/Wenlambo_RH",
+                      href: "https://x.com/Wenlambo_Gram",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -9586,7 +9586,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://t.me/WenLambo_RobinHood",
+                      href: "https://t.me/WenLambo_Gram",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -11206,13 +11206,13 @@ const ph = () =>
                   className: "flex gap-x-4 items-center justify-center",
                   children: [
                     d.jsx("a", {
-                      href: "https://t.me/WenLambo_RobinHood",
+                      href: "https://t.me/WenLambo_Gram",
                       className:
                         "text-4xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
                       children: d.jsx(dh, {}),
                     }),
                     d.jsx("a", {
-                      href: "https://x.com/Wenlambo_RH",
+                      href: "https://x.com/Wenlambo_Gram",
                       className:
                         "text-4xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
                       children: d.jsx(fh, {}),
