@@ -9613,7 +9613,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://fun.noxa.fi/",
+                      href: "https://dedust.io/swap/GRAM/EQBtWYrOvsCdlLTb4HROaou-UTEUfYAFNT6Bt0yjeAWTloJ5",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -11028,7 +11028,7 @@ const uh = () =>
                   className: "flex gap-x-2",
                   children: [
                     d.jsx("a", {
-                      href: "https://fun.noxa.fi/",
+                      href: "https://dedust.io/swap/GRAM/EQBtWYrOvsCdlLTb4HROaou-UTEUfYAFNT6Bt0yjeAWTloJ5",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
