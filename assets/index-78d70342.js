@@ -9460,7 +9460,7 @@ const kp = () => {
                     "flex gap-x-4 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://x.com/WenLambo_Story",
+                      href: "https://x.com/Wenlambo_RH",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9468,7 +9468,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://t.me/WenLamboStory_Channel",
+                      href: "https://t.me/WenLambo_RobinHood",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -9526,7 +9526,7 @@ const kp = () => {
         //             children: d.jsx("button", {
         //               className:
         //                 "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
-        //               children: "Story",
+        //               children: "ROBINHOOD",
         //             }),
         //           }),
         //         }),
@@ -9577,7 +9577,7 @@ const kp = () => {
                     "flex flex-col gap-y-2 w-full justify-center items-center relative z-20",
                   children: [
                     d.jsx("a", {
-                      href: "https://x.com/WenLambo_Story",
+                      href: "https://x.com/Wenlambo_RH",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -9586,7 +9586,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://t.me/WenLamboStory_Channel",
+                      href: "https://t.me/WenLambo_RobinHood",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -9595,12 +9595,12 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://www.storyscan.io/",
+                      href: "https://robinhoodchain.blockscout.com/",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300 w-full",
-                        children: "StoryScan",
+                        children: "ROBINHOODScan",
                       }),
                     }),
                     d.jsx("a", {
@@ -9613,7 +9613,7 @@ const kp = () => {
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://ip.world/token/0xD8Ba1e795ff04E5fdd7E03384e845007a2860B5c",
+                      href: "https://fun.noxa.fi/",
                       className: "w-full",
                       children: d.jsx("button", {
                         className:
@@ -11022,13 +11022,13 @@ const uh = () =>
                   className:
                     "text-xl text-amber-900 text-center font-mont font-bold",
                   children:
-                    "Are you ready to dive into the exhilarating world of meme cryptocurrencies? WEN $LAMBO is here to turbocharge your crypto journey! Born on the robust and speedy Sol blockchain, WEN $LAMBO isn't just another token; it's a movement. ",
+                    "Are you ready to dive into the exhilarating world of meme cryptocurrencies? WEN $LAMBO is here to turbocharge your crypto journey! Born on the robust and speedy Robinhood blockchain, WEN $LAMBO isn't just another token; it's a movement. ",
                 }),
                 d.jsxs("div", {
                   className: "flex gap-x-2",
                   children: [
                     d.jsx("a", {
-                      href: "https://ip.world/token/0xD8Ba1e795ff04E5fdd7E03384e845007a2860B5c",
+                      href: "https://fun.noxa.fi/",
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300",
@@ -11206,13 +11206,13 @@ const ph = () =>
                   className: "flex gap-x-4 items-center justify-center",
                   children: [
                     d.jsx("a", {
-                      href: "https://t.me/WenLamboStory_Channel",
+                      href: "https://t.me/WenLambo_RobinHood",
                       className:
                         "text-4xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
                       children: d.jsx(dh, {}),
                     }),
                     d.jsx("a", {
-                      href: "https://x.com/WenLambo_Story",
+                      href: "https://x.com/Wenlambo_RH",
                       className:
                         "text-4xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
                       children: d.jsx(fh, {}),
@@ -11231,11 +11231,11 @@ const ph = () =>
                       }),
                     }),
                     d.jsx("a", {
-                      href: "https://www.storyscan.io/",
+                      href: "https://robinhoodchain.blockscout.com/",
                       children: d.jsx("p", {
                         className:
                           "text-2xl hover:scale-110 hover:text-blue-100 transition-all ease-in-out duration-300",
-                        children: "StoryScan",
+                        children: "ROBINHOODScan",
                       }),
                     }),
                   ],
