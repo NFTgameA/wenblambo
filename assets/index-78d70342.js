@@ -9286,7 +9286,7 @@ const kp = () => {
                 d.jsx("p", {
                   className:
                     "text-9xl absolute bottom-0 right-0 z-0 opacity-20 whitespace-nowrap",
-                  children: "WEN $LAMBO!",
+                  children: "$WENLAMBO!",
                 }),
                 d.jsxs("div", {
                   className: "flex items-center justify-between relative z-20",
@@ -9304,7 +9304,7 @@ const kp = () => {
                 }),
                 d.jsx("p", {
                   className: "text-xl font-sans font-bold",
-                  children: `This is your moment. Be part of a crypto project that's more than an investment; it's a lifestyle, a community, a thrilling ride. With WEN $LAMBO, watch as we turn meme dreams into reality. Are you ready to say, "WEN $LAMBO"? Because the journey to your dream Lamborghini starts now!`,
+                  children: `This is your moment. Be part of a crypto project that's more than an investment; it's a lifestyle, a community, a thrilling ride. With $WENLAMBO, watch as we turn meme dreams into reality. Are you ready to say, "$WENLAMBO"? Because the journey to your dream Lamborghini starts now!`,
                 }),
                 d.jsx("div", {
                   className:
@@ -9336,14 +9336,14 @@ const kp = () => {
                 d.jsx("p", {
                   className:
                     "text-9xl absolute bottom-0 right-0 z-0 opacity-20 whitespace-nowrap pointer-events-none",
-                  children: "WEN $LAMBO!",
+                  children: "$WENLAMBO!",
                 }),
                 d.jsxs("div", {
                   className: "flex items-center justify-between relative z-20",
                   children: [
                     d.jsx("p", {
                       className: "text-5xl text-blue-800",
-                      children: "YOU ONLY NEED TO BUY $LAMBO TO GET LAMBO",
+                      children: "YOU ONLY NEED TO BUY $WENLAMBO TO GET LAMBO",
                     }),
                     d.jsx("button", {
                       onClick: v,
@@ -9382,7 +9382,7 @@ const kp = () => {
                 //           className: "font-bold text-xl z-99",
                 //           children: " Read our DISCLAIMER ",
                 //         }),
-                //         " before considering WEN $LAMBO.",
+                //         " before considering $WENLAMBO.",
                 //       ],
                 //     }),
                 //   ],
@@ -9429,7 +9429,7 @@ const kp = () => {
                 d.jsx("p", {
                   className:
                     "text-9xl absolute bottom-0 right-0 z-0 opacity-20 whitespace-nowrap pointer-events-none",
-                  children: "WEN $LAMBO!",
+                  children: "$WENLAMBO!",
                 }),
                 d.jsxs("div", {
                   className: "flex items-center justify-between relative z-20",
@@ -9448,7 +9448,7 @@ const kp = () => {
                 d.jsx("p", {
                   className: "text-xl font-sans font-bold",
                   children:
-                    "WEN $LAMBO is more than just a token; it's your ticket to potentially unlocking the lifestyle you've dreamed of. Imagine the roar of a Lamborghini engine, a symbol of the prosperity that WEN $LAMBO aims to bring.",
+                    "$WENLAMBO is more than just a token; it's your ticket to potentially unlocking the lifestyle you've dreamed of. Imagine the roar of a Lamborghini engine, a symbol of the prosperity that $WENLAMBO aims to bring.",
                 }),
                 d.jsx("p", {
                   className: "text-xl font-sans font-bold",
@@ -9497,7 +9497,7 @@ const kp = () => {
         //         d.jsx("p", {
         //           className:
         //             "text-9xl absolute bottom-0 right-0 z-0 opacity-20 whitespace-nowrap pointer-events-none",
-        //           children: "WEN $LAMBO",
+        //           children: "$WENLAMBO",
         //         }),
         //         d.jsxs("div", {
         //           className: "flex items-center justify-between relative z-20",
@@ -9550,7 +9550,7 @@ const kp = () => {
                 d.jsx("p", {
                   className:
                     "text-9xl absolute bottom-0 right-0 z-0 opacity-20 whitespace-nowrap pointer-events-none",
-                  children: "WEN $LAMBO",
+                  children: "$WENLAMBO",
                 }),
                 d.jsxs("div", {
                   className:
@@ -9558,7 +9558,7 @@ const kp = () => {
                   children: [
                     d.jsx("p", {
                       className: "text-5xl text-blue-800",
-                      children: "LINKS FOR $LAMBO",
+                      children: "LINKS FOR $WENLAMBO",
                     }),
                     d.jsx("button", {
                       onClick: g,
@@ -9618,7 +9618,7 @@ const kp = () => {
                       children: d.jsx("button", {
                         className:
                           "font-vina text-2xl bg-gradient-to-b from-blue-400 to-blue-700 text-white py-1 px-4 border-white border-solid border-[3px] rounded-full hover:bg-black/20 hover:text-blue-100 transition-all ease-in-out duration-300 w-full",
-                        children: "BUY $LAMBO",
+                        children: "BUY $WENLAMBO",
                       }),
                     }),
                   ],
@@ -9696,7 +9696,7 @@ const kp = () => {
                 }),
                 d.jsx("p", {
                   className: "font-vina text-6xl lg:text-7xl text-white",
-                  children: "WEN $LAMBO",
+                  children: "$WENLAMBO",
                 }),
               ],
             }),
@@ -9738,71 +9738,71 @@ const kp = () => {
           children: [
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
             d.jsx("p", {
               className: "font-vina text-2xl text-white px-4",
-              children: "WEN $LAMBO",
+              children: "$WENLAMBO",
             }),
           ],
         }),
@@ -11016,13 +11016,13 @@ const uh = () =>
               children: [
                 d.jsx("p", {
                   className: "text-7xl text-amber-500 text-center",
-                  children: "Join the Revolution: WEN $LAMBO Awaits!",
+                  children: "Join the Revolution: $WENLAMBO Awaits!",
                 }),
                 d.jsx("p", {
                   className:
                     "text-xl text-amber-900 text-center font-mont font-bold",
                   children:
-                    "Are you ready to dive into the exhilarating world of meme cryptocurrencies? WEN $LAMBO is here to turbocharge your crypto journey! Born on the robust and speedy Robinhood blockchain, WEN $LAMBO isn't just another token; it's a movement. ",
+                    "Are you ready to dive into the exhilarating world of meme cryptocurrencies? $WENLAMBO is here to turbocharge your crypto journey! Born on the robust and speedy Robinhood blockchain, $WENLAMBO isn't just another token; it's a movement. ",
                 }),
                 d.jsxs("div", {
                   className: "flex gap-x-2",
@@ -11268,95 +11268,95 @@ function hh() {
         children: [
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
           d.jsx("p", {
             className: "font-primary text-2xl text-blue-900 px-4",
-            children: "WEN $LAMBO??",
+            children: "$WENLAMBO??",
           }),
         ],
       }),
